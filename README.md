@@ -117,7 +117,7 @@ me.say_hi()
 
 ### 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=ravishinde&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=imravi05&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
 
 </div>
 
@@ -148,7 +148,7 @@ me.say_hi()
 
 ### 👁️ Profile Views
 
-![Profile Views](https://komarev.com/ghpvc/?username=ravishinde&label=Profile%20views&color=0e75b6&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=imravi05&label=Profile%20views&color=0e75b6&style=for-the-badge)
 
 </div>
 
